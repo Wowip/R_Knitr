@@ -38,22 +38,16 @@ It is easy.
 
 
 ```r
--plot(1:10)
-```
-
-```
-## Error in -plot(1:10): invalid argument to unary operator
+plot(1:10)
 ```
 
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-1.png) 
 
 ```r
-+getwd()
+hist(rnorm(1000))
 ```
 
-```
-## Error in +getwd(): invalid argument to unary operator
-```
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2-2.png) 
 
 ## inline code
 
