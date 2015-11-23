@@ -1,4 +1,6 @@
 language: r
+R:
+  - 2.13.2
 sudo: required
 
 install:
