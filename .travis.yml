@@ -6,7 +6,7 @@ install:
   
 script:
   - sudo Rscript -e "library(knitr); knit('ejemplo.Rmd')" 
-  - sudo Rscript -e "library(knitr); knit('HolaMundo.Rmd.Rmd')" 
+  - sudo Rscript -e "library(knitr); knit('HolaMundo.Rmd')" 
 
 after_script:
   - ls
