@@ -1,0 +1,18 @@
+#Ejemplo 2
+
+##Este es un ejemplo2
+
+Aqui veremos si la prueba corre.
+
+
+
+```r
+x <- ("Hello")
+y <- ("World!")
+z <- paste(x,y)
+z
+```
+
+```
+## [1] "Hello World!"
+```
