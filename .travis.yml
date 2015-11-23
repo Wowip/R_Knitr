@@ -1,6 +1,4 @@
 language: r
-R:
-  - 2.13.2
 sudo: required
 
 install:
@@ -28,5 +26,5 @@ after_script:
   - git checkout master
   - git add .
   - git commit -m "añadiendo ejemplos en R"
-  - git pull
+  - git pull origin master
   - git push origin master
