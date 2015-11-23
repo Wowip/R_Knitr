@@ -28,4 +28,5 @@ after_script:
   - git checkout master
   - git add .
   - git commit -m "añadiendo ejemplos en R"
+  - git pull
   - git push origin master
