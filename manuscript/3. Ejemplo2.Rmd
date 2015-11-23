@@ -11,7 +11,7 @@ hx <- dnorm(x,mean,sd)
 hx
 ```
 
-#Ponemos los labels
+##Ponemos los labels
 
 ```{r}
 plot(x, hx, type="n", xlab="Valores IQ ", ylab="", main="Distribucion Normal", axes=FALSE)
