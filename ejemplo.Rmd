@@ -25,8 +25,8 @@ A _paragraph_ here. A code chunk below (remember the three backticks):
 It is easy.
 
 ```{r}
--plot(1:10)
-+getwd()
+plot(1:10)
+hist(rnorm(1000))
 ```
 
 ## inline code
