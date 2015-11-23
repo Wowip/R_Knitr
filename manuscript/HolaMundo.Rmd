@@ -1,0 +1,11 @@
+#Ejemplo de hola mundo
+
+Ejemplo de hola mundo
+
+
+```{r}
+x <- ("Hello")
+y <- ("World!")
+z <- paste(x,y)
+z
+```
