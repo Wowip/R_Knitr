@@ -11,6 +11,10 @@ hx <- dnorm(x,mean,sd)
 hx
 ```
 
+```{r}
+opts_chunk$set(fig.path = "images/") # corrected path and added dev
+```
+
 ##Ponemos los labels
 
 ```{r}
