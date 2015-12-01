@@ -1,0 +1,7 @@
+#Ejemplo 3
+
+Función de distribución normal acumulativa
+
+```{r}
+pnorm(310,527,105)
+```
