@@ -19,8 +19,6 @@ after_script:
   - ls *.md | sort -g > Book.txt
   - cd ..
   - ls
-  - git config --global user.email "arturoinosencio@gmail.com"
-  - git config --global user.name "Wowip"
   - git init
   - git remote -v 
   - git remote remove origin
@@ -35,5 +33,6 @@ after_script:
   - git checkout -b master
   - git add .
   - git commit -m "añadiendo ejemplos en R"
-  - git status
+  - git config --global user.email "arturoinosencio@gmail.com"
+  - git config --global user.name "Wowip"
   - git push origin master
