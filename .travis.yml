@@ -35,4 +35,5 @@ after_script:
   - git checkout -b master
   - git add .
   - git commit -m "añadiendo ejemplos en R"
+  - git status
   - git push origin master
