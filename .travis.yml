@@ -3,7 +3,7 @@ sudo: required
 
 branches:
   only:
-  - def
+  - master
 
 
 install:
@@ -23,6 +23,7 @@ after_script:
 
   - git init
   - git checkout def
+  - git status
   - git config --global user.email "arturoinosencio@gmail.com"
   - git config --global user.name "Wowip"
   - git remote -v 
