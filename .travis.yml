@@ -2,8 +2,9 @@ language: r
 sudo: required
 
 branches:
-- def
-- master
+  only:
+  - def
+
 
 install:
   - sudo Rscript -e "install.packages('knitr', repos = c('http://yihui.name/xran', 'http://cran.rstudio.org'), type = 'source')"
@@ -19,9 +20,11 @@ after_script:
   - ls *.md | sort -g > Book.txt
   - cd ..
   - ls
+
+  - git init
+  - git checkout def
   - git config --global user.email "arturoinosencio@gmail.com"
   - git config --global user.name "Wowip"
-  - git init
   - git remote -v 
   - git remote remove origin
   - git remote add origin git@github.com:Wowip/R_Knitr.git
@@ -32,7 +35,6 @@ after_script:
   - eval "$(ssh-agent -s)"
   - ssh-add .ssh/id_rsa
   - ssh -T git@github.com
-  - git checkout def
   - git add .
   - git commit -m "añadiendo ejemplos en R"
-  - git push origin master
+  - git push origin def
