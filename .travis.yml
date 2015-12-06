@@ -36,6 +36,7 @@ after_script:
   - eval "$(ssh-agent -s)"
   - ssh-add .ssh/id_rsa
   - ssh -T git@github.com
+  - git checkout master
   - git add .
   - git commit -m "añadiendo ejemplos en R"
-  - git push origin def
+  - git push origin master
