@@ -12,6 +12,8 @@ script:
   - sh script.sh
 
 after_script:
+  - git config --global user.email "arturoinosencio@gmail.com"
+  - git config --global user.name "Wowip"
   - ls
   - cd manuscript
   - ls
@@ -33,6 +35,4 @@ after_script:
   - git checkout -b master
   - git add .
   - git commit -m "añadiendo ejemplos en R"
-  - git config --global user.email "arturoinosencio@gmail.com"
-  - git config --global user.name "Wowip"
   - git push origin master
