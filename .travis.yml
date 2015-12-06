@@ -30,6 +30,8 @@ after_script:
   - eval "$(ssh-agent -s)"
   - ssh-add .ssh/id_rsa
   - ssh -T git@github.com
+  - git config --global user.email "arturoinosencio@gmail.com"
+  - git config --global user.name "Wowip"
   - git checkout master
   - git add .
   - git commit -m "añadiendo pruebas"
