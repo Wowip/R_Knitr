@@ -32,4 +32,4 @@ after_script:
   - git checkout master
   - git add .
   - git commit -m "añadiendo ejemplos en R"
-  - git push origin def
+  - git push origin master
