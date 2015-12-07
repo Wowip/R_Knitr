@@ -20,7 +20,8 @@ after_script:
   - cd ..
   - ls
   - git init
-  - git checkout -b def
+  - git branch
+  - git checkout def
   - git status
   - git config --global user.email "arturoinosencio@gmail.com"
   - git config --global user.name "Wowip"
