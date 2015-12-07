@@ -36,5 +36,7 @@ after_script:
   - ssh -T git@github.com
   - git checkout master
   - git add .
+  - git status
   - git commit -m "añadiendo ejemplos en R"
+  - git status
   - git push origin master
