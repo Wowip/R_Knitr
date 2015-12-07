@@ -16,9 +16,9 @@ after_script:
   - cd ..
   - ls
   - git init
-  - git remote -v 
+  - git remote -v
   - git remote remove origin
-  - git remote add origin git@github.com:Wowip/R_Knitr.git  
+  - git remote add origin git@github.com:Wowip/R_Knitr.git
   - sudo chmod 600 .ssh/id_rsa
   - sudo chmod 600 .ssh/id_rsa.pub
   - ls -a
@@ -27,6 +27,6 @@ after_script:
   - ssh-add .ssh/id_rsa
   - ssh -T git@github.com
   - git checkout master
-  - git add . 
+  - git add .
   - git commit -m "añadiendo pruebas"
   - git push origin master
