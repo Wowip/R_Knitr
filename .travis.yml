@@ -16,8 +16,7 @@ after_script:
   - cd ..
   - ls
   - git init
-  - git remote -v
-  - git remote remove origin
+  - sudo git remote -v
   - git remote add origin git@github.com:Wowip/R_Knitr.git
   - sudo chmod 600 .ssh/id_rsa
   - sudo chmod 600 .ssh/id_rsa.pub
