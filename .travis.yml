@@ -34,15 +34,13 @@ after_script:
   - git config --global user.email "arturoinosencio@gmail.com"
   - git config --global user.name "Wowip"
   - git status
+  - git pull origin master
+  - git status
   - git add .
   - git status
   - git checkout -b master
   - git status
-  - git commit -m "añadiendo pruebas"
-  - git status
   - git checkout --theirs -- manuscript/images/unnamed-chunk-3-2.png
-  - git status
-  - git pull origin master
   - git status
   - git add .
   - git commit -m "prueba"
