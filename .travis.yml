@@ -33,8 +33,10 @@ after_script:
   - ssh -T git@github.com
   - git config --global user.email "arturoinosencio@gmail.com"
   - git config --global user.name "Wowip"
+  - git status
   - git add .
-  - git checkout master
+  - git status
+  - git checkout -b master
   - git status
   - git commit -m "añadiendo pruebas"
   - git status
