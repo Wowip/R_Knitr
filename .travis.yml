@@ -36,4 +36,6 @@ after_script:
   - git config --global user.name "Wowip"
   - git add .
   - git commit -m "añadiendo pruebas"
+  - git status
+  - git pull origin master
   - git push origin master
