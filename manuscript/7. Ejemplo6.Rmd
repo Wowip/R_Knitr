@@ -7,3 +7,4 @@ Creando gŕafica de 5 a 100.
 ```{r}
 plot(5:100)
 ```
+jeje
