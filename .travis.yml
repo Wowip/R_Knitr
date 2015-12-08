@@ -1,10 +1,18 @@
 language: r
 sudo: required
 
+<<<<<<< HEAD
 branches:
   only:
   - nuevo
   
+=======
+branches:		
+  only:		
+  - nuevo
+
+
+>>>>>>> 2c99c4809fea3c48d4b753b8f9904475aef39575
 install:
   - sudo Rscript -e "install.packages('knitr', repos = c('http://yihui.name/xran', 'http://cran.rstudio.org'), type = 'source')"
   
@@ -31,6 +39,7 @@ after_script:
   - eval "$(ssh-agent -s)"
   - ssh-add .ssh/id_rsa
   - ssh -T git@github.com
+<<<<<<< HEAD
   - git config --global user.email "arturoinosencio@gmail.com"
   - git config --global user.name "Wowip"
   - git status
@@ -47,4 +56,11 @@ after_script:
   - git add .
   - git commit -m "prueba"
   - git status
+=======
+  - git checkout master
+  - git config --global user.email "arturoinosencio@gmail.com"
+  - git config --global user.name "Wowip"
+  - git add .
+  - git commit -m "añadiendo pruebas"
+>>>>>>> 2c99c4809fea3c48d4b753b8f9904475aef39575
   - git push origin master

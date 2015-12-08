@@ -2,4 +2,7 @@
 2. Ejemplo1.md
 3. Ejemplo2.md
 4. Ejemplo3.md
+<<<<<<< HEAD
 5. Ejemplo4.md
+=======
+>>>>>>> 2c99c4809fea3c48d4b753b8f9904475aef39575
