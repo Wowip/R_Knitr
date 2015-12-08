@@ -40,4 +40,6 @@ after_script:
   - git status
   - git commit -m "añadiendo pruebas"
   - git status
+  - git pull origin master
+  - git status
   - git push origin master
