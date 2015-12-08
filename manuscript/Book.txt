@@ -2,6 +2,18 @@
 2. Ejemplo1.md
 3. Ejemplo2.md
 4. Ejemplo3.md
+<<<<<<< HEAD
 5. Ejemplo4.md
 6. Ejemplo 5.md
 7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+=======
+>>>>>>> 2c99c4809fea3c48d4b753b8f9904475aef39575
+>>>>>>> 0ae3fb43848ef8ff54586a08cbc6eda224f566e0
+>>>>>>> 5663b64c884b3c4c8b02dd8788c38ed0abb9a3b9
