@@ -1,1 +1,9 @@
-Crenaod las pruebas en branches
+#Creando las pruebas en branches
+
+```{r}
+opts_chunk$set(fig.path = "images/") # corrected path and added dev
+```
+Creando gŕafica de 5 a 100.
+```{r}
+plot(5:100)
+```
