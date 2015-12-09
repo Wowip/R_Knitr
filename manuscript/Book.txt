@@ -2,6 +2,54 @@
 2. Ejemplo1.md
 3. Ejemplo2.md
 4. Ejemplo3.md
+<<<<<<< HEAD
 5. Ejemplo4.md
 6. Ejemplo 5.md
 7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+=======
+>>>>>>> 2c99c4809fea3c48d4b753b8f9904475aef39575
+>>>>>>> 0ae3fb43848ef8ff54586a08cbc6eda224f566e0
+>>>>>>> 5663b64c884b3c4c8b02dd8788c38ed0abb9a3b9
+>>>>>>> 63a06fafa1c56d852955ba8a26a4d937c686c436
+>>>>>>> d03aeca205d5b11ddf9aec2f3cb83d32cc25c1bb
+>>>>>>> ea8492690a4e4c37a3d180dd44dd6bfadef2e791
+>>>>>>> 0f9aafb023eb7748cf9eb2a1096fb5e0acc6f2cf
+>>>>>>> 1dee09c3e0d73782efce9c110a78637fd9874311
+>>>>>>> 60ca14b7ab924b61f37a4c131a3cd3cdb276a877
