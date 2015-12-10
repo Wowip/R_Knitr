@@ -2,7 +2,7 @@
 
 Ejemplo de hola mundo :) jaja
 
-prueba al principiio modificado
+prueba al principio
 
 
 ```r
@@ -15,13 +15,6 @@ z
 ```
 ## [1] "Hello World!"
 ```
-<<<<<<< HEAD
-Y aqui es una modificación que se hizo del ... bueno, lo vuelvo a modifica, por tercera vez, por cuarta, y una quinta, la sexta.
-
-Pongo algo más aqui abajo.
-
-Hola
-=======
 <<<<<<< HEAD
 Y aqui es una modificación que se hizo del ... bueno, lo vuelvo a modifica, por tercera vez, por cuarta, y una quinta, la sexta.
 
@@ -75,4 +68,3 @@ Y aqui es una modificación que se hizo del archivo.
 >>>>>>> bec6a3c075910ea7dddf41edb71c6155f96470b6
 >>>>>>> 7029bf52d0a759543fa65aa146ea5c8f07c2dad8
 >>>>>>> 54799795fccd5259f028376541dc298976fe1cc4
->>>>>>> 23be48d0ed127455d7586484d860bbbce8effa33
