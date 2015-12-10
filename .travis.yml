@@ -42,7 +42,6 @@ after_script:
   - git status
   - git checkout -b master
   - git status
-  - git checkout --theirs -- manuscript/images/unnamed-chunk-3-2.png
   - git merge nuevo
   - git status
   - git push origin master
