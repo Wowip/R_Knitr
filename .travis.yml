@@ -36,18 +36,14 @@ after_script:
   - git config --global user.name "Wowip"
   - git status
   - git add .
-  - git status
+
   - git commit -m "commit 1"
   - git status
   - git checkout -b master
   - git status
   - git checkout --theirs -- manuscript/images/unnamed-chunk-3-2.png
-  - git status
   - git pull origin master
   - git status
-  - git add .
-  - git commit -m "prueba"
+  - git merge nuevo
   - git status
   - git push origin master
-  - git pull
-  - git status
