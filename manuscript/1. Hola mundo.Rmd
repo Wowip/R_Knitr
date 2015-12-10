@@ -2,6 +2,7 @@
 
 Ejemplo de hola mundo :) jaja
 
+Prueba 2
 
 ```{r}
 x <- ("Hello")
