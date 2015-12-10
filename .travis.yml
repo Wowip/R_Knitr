@@ -48,6 +48,6 @@ after_script:
   - git add .
   - git commit -m "prueba"
   - git status
-  - git merge master
-  - git status
   - git push origin master
+  - git pull
+  - git status
