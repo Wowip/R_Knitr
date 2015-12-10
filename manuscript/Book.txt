@@ -2,3 +2,114 @@
 2. Ejemplo1.md
 3. Ejemplo2.md
 4. Ejemplo3.md
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+7. Ejemplo6.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+6. Ejemplo 5.md
+=======
+<<<<<<< HEAD
+5. Ejemplo4.md
+=======
+>>>>>>> 2c99c4809fea3c48d4b753b8f9904475aef39575
+>>>>>>> 0ae3fb43848ef8ff54586a08cbc6eda224f566e0
+>>>>>>> 5663b64c884b3c4c8b02dd8788c38ed0abb9a3b9
+>>>>>>> 63a06fafa1c56d852955ba8a26a4d937c686c436
+>>>>>>> d03aeca205d5b11ddf9aec2f3cb83d32cc25c1bb
+>>>>>>> ea8492690a4e4c37a3d180dd44dd6bfadef2e791
+>>>>>>> 0f9aafb023eb7748cf9eb2a1096fb5e0acc6f2cf
+>>>>>>> 1dee09c3e0d73782efce9c110a78637fd9874311
+>>>>>>> 60ca14b7ab924b61f37a4c131a3cd3cdb276a877
+>>>>>>> 30176d393089064e38ce621e6b0c644b9f1afea6
+>>>>>>> b5c20debd90950af7b17d5147bfde07fc37741c0
+>>>>>>> d381576953a75bd65a46ea20150d0f052ec61c48
+>>>>>>> b997095d8d7a33732a9edd201de097734a87370e
+>>>>>>> 645e5202efadc33ce097f613187e3e81b2400e32
+>>>>>>> 34a5d2e0a36fa1d52acee34c1de84a46eda87c95
+>>>>>>> cf11af5b807240dd021f514e2f750f0e26152fa4
+>>>>>>> bec6a3c075910ea7dddf41edb71c6155f96470b6
+>>>>>>> 7029bf52d0a759543fa65aa146ea5c8f07c2dad8
+>>>>>>> 54799795fccd5259f028376541dc298976fe1cc4
