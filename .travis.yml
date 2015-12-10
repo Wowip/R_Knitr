@@ -36,7 +36,6 @@ after_script:
   - git config --global user.name "Wowip"
   - git status
   - git add .
-
   - git commit -m "commit 1"
   - git status
   - git checkout -b master
