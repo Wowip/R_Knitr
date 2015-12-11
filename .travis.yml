@@ -35,16 +35,28 @@ after_script:
   - git config --global user.email "arturoinosencio@gmail.com"
   - git config --global user.name "Wowip"
   - git status
+<<<<<<< HEAD
+=======
+  - git pull origin master
+  - git status
+>>>>>>> nuevo
   - git checkout nuevo
   - git status
   - git add .
   - git commit -m "commit 1"
   - git status
-  - git checkout -b master
+  - git checkout master
   - git status
-  - git checkout --theirs -- manuscript/images/unnamed-chunk-3-2.png
-  - git pull origin master
+  - git checkout --theirs -- manuscript/images/unnamed-chunk-3-2.png 
+  - git status
+  - git pull 
   - git status
   - git merge nuevo
   - git status
+<<<<<<< HEAD
   - git push origin master 
+=======
+  - git add .
+  - git commit -m "en master"
+  - git push origin master
+>>>>>>> nuevo
