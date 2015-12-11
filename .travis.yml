@@ -44,8 +44,12 @@ after_script:
   - git status
   - git checkout master
   - git status
+  - git checkout --theirs -- manuscript/images/unnamed-chunk-3-2.png 
+  - git status
   - git pull 
   - git status
   - git merge nuevo
   - git status
+  - git add .
+  - git commit -m "en master"
   - git push origin master
