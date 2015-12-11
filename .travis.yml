@@ -45,6 +45,8 @@ after_script:
   - git status
   - git checkout -b master
   - git status
+  - git pull
+  - git status
   - git merge nuevo
   - git status
   - git push origin master
