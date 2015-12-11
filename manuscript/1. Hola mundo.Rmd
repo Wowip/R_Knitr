@@ -10,6 +10,8 @@ prueba 4
 
 prueba 5
 
+prueba 6
+
 ```{r}
 x <- ("Hello")
 y <- ("World!")
