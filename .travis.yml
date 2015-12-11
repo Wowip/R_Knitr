@@ -38,7 +38,7 @@ after_script:
   - git add .
   - git commit -m "cosa rara"
   - git status
-  - git push
+  - git config --global push.default simple
   - git checkout nuevo
   - git status
   - git add .
