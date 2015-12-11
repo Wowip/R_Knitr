@@ -40,8 +40,6 @@ after_script:
   - git add .
   - git commit -m "commit 1"
   - git status
-  - git pull origin master
-  - git status
   - git checkout master
   - git status
   - git checkout --theirs -- manuscript/images/unnamed-chunk-3-2.png 
