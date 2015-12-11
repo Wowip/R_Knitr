@@ -35,6 +35,10 @@ after_script:
   - git config --global user.email "arturoinosencio@gmail.com"
   - git config --global user.name "Wowip"
   - git status
+  - git add .
+  - git commit -m "cosa rara"
+  - git status
+  - git push
   - git checkout nuevo
   - git status
   - git add .
