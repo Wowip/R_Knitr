@@ -3,5 +3,5 @@
 Función de distribución normal acumulativa
 
 ```{r}
-pnorm(310,527,105)
+pnm310,527,105)
 ```
